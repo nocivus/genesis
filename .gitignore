@@ -1,0 +1,14 @@
+syntax:glob
+Builds
+.DS_Store
+*.log
+.idea
+*.pid
+*.pyc
+*.class
+Library
+Build
+*.csproj
+*.sln
+Temp
+videos

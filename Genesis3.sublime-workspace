@@ -1,0 +1,2189 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Draw",
+				"DrawDebugBoxes"
+			],
+			[
+				"face",
+				"faceSize"
+			],
+			[
+				"gee",
+				"generateBackSquare"
+			],
+			[
+				"Distance",
+				"DistanceSquared"
+			],
+			[
+				"GetNorm",
+				"GetNormalizedPosition"
+			],
+			[
+				"distance",
+				"distanceToCamera"
+			],
+			[
+				"mesh",
+				"meshData"
+			],
+			[
+				"actua",
+				"actualizar_dados_revista"
+			],
+			[
+				"quer_revista_",
+				"quer_revista_em_papel"
+			],
+			[
+				"quer_extracto",
+				"quer_extracto_em_papel"
+			],
+			[
+				"updated_",
+				"updated_something"
+			],
+			[
+				"new_pedido_inscr",
+				"new_pedido_inscricao_modalidade_geral"
+			],
+			[
+				"mapa",
+				"mapa_ocupacao_global"
+			],
+			[
+				"login_",
+				"login_employee"
+			],
+			[
+				"viagem",
+				"viagem_params"
+			],
+			[
+				"telemo",
+				"telemovel_params"
+			],
+			[
+				"telemovel",
+				"telemovel_socio"
+			],
+			[
+				"socio",
+				"socio_params"
+			],
+			[
+				"req",
+				"req_params"
+			],
+			[
+				"promo",
+				"promo_params"
+			],
+			[
+				"prenda",
+				"prenda_params"
+			],
+			[
+				"pedido",
+				"pedido_params"
+			],
+			[
+				"pedido_bilh",
+				"pedido_bilhetes_natal"
+			],
+			[
+				"orgao",
+				"orgao_params"
+			],
+			[
+				"modalida",
+				"modalidade_params"
+			],
+			[
+				"fornece",
+				"fornecedor_params"
+			],
+			[
+				"espec",
+				"espectaculo_params"
+			],
+			[
+				"is_emplo",
+				"is_employee?"
+			],
+			[
+				"email",
+				"email_externo"
+			],
+			[
+				"data",
+				"data_admissao"
+			],
+			[
+				"data_",
+				"data_nascimento"
+			],
+			[
+				"pedido_bilhete",
+				"pedido_bilhetes_natal"
+			],
+			[
+				"find_by_numer",
+				"find_by_numero_socio"
+			],
+			[
+				"idade_maxima",
+				"idade_maxima_inc"
+			],
+			[
+				"modo_entre",
+				"modo_entrega_eq"
+			],
+			[
+				"corres",
+				"correspondencias"
+			],
+			[
+				"process_",
+				"process_filter_to_list"
+			],
+			[
+				"valor_",
+				"valor_4_12_anos"
+			],
+			[
+				"down",
+				"downcase"
+			],
+			[
+				"name_see",
+				"name_seems?"
+			],
+			[
+				"is_",
+				"is_employee?"
+			],
+			[
+				"numero",
+				"numero_bilhetes_sul"
+			],
+			[
+				"failed",
+				"failed_attempts"
+			],
+			[
+				"find_",
+				"find_by_codigo"
+			],
+			[
+				"codigo",
+				"codigo_correspondencia"
+			],
+			[
+				"mail",
+				"mail_externo"
+			],
+			[
+				"numer",
+				"numero_mecanografico"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"recover_passwo",
+				"recover_password_path"
+			],
+			[
+				"generate",
+				"generate_users"
+			],
+			[
+				"pagamento",
+				"pagamento_anterior"
+			],
+			[
+				"pagame",
+				"pagamento_anterior"
+			],
+			[
+				"cobrado_mes",
+				"cobrado_mes_total"
+			],
+			[
+				"status",
+				"status_index"
+			],
+			[
+				"cobrancas_process",
+				"cobrancas_processar_retorno"
+			],
+			[
+				"is_pend",
+				"is_pendente?"
+			],
+			[
+				"aniv",
+				"aniv_mes_low"
+			],
+			[
+				"cobrados",
+				"cobrados_no_passado"
+			],
+			[
+				"associa",
+				"associate_can_manage_bilhetes_natal"
+			],
+			[
+				"pagamentos",
+				"pagamento_requisicaos"
+			],
+			[
+				"cobrad",
+				"cobrados_no_passado"
+			],
+			[
+				"conta",
+				"contactos_recepcao"
+			],
+			[
+				"requisic",
+				"requisicao_apartamento"
+			],
+			[
+				"valor_tr",
+				"valor_tribuna_2"
+			],
+			[
+				"pedido_",
+				"pedido_inscricao_detalhes"
+			],
+			[
+				"is_ass",
+				"is_associate?"
+			],
+			[
+				"get",
+				"get_sequencial_number"
+			],
+			[
+				"ocupaca",
+				"ocupacao_do_dia"
+			],
+			[
+				"aparta",
+				"apartamento_nome"
+			],
+			[
+				"soma",
+				"soma_valores"
+			],
+			[
+				"meses",
+				"meses_a_duplicar"
+			],
+			[
+				"ano_mes",
+				"ano_mes_primeira_cobranca"
+			],
+			[
+				"o",
+				"ope	open(\"path/or/url\", \"w\") { |io| .. }"
+			],
+			[
+				"actividade_",
+				"actividade_socio"
+			],
+			[
+				"modalidade",
+				"modalidade_gerals"
+			],
+			[
+				"bile",
+				"bilhete_identidade"
+			],
+			[
+				"obser",
+				"observacoes"
+			],
+			[
+				"cobrancas",
+				"cobrancas_path"
+			],
+			[
+				"cobtr",
+				"cobrancas_path"
+			],
+			[
+				"encon",
+				"encontrado"
+			],
+			[
+				"Pedido",
+				"PedidoBilhetesNatal"
+			],
+			[
+				"carta",
+				"cartao_repsols"
+			],
+			[
+				"cart",
+				"cartao_repsols"
+			],
+			[
+				"age",
+				"age"
+			],
+			[
+				"bilhete",
+				"bilhete_identidade"
+			],
+			[
+				"numero_me",
+				"numero_mecanografico"
+			],
+			[
+				"tele",
+				"telefone2"
+			],
+			[
+				"ch",
+				"check"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"bilhetes",
+				"bilhetes_rateio"
+			],
+			[
+				"eac",
+				"each"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/TerrainGen.cs",
+			"settings":
+			{
+				"buffer_size": 926,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Triangle.cs",
+			"settings":
+			{
+				"buffer_size": 6148,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/FaceTerrain.cs",
+			"settings":
+			{
+				"buffer_size": 608,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/Chunk.cs",
+			"settings":
+			{
+				"buffer_size": 603,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 97.0,
+		"last_filter": "forma",
+		"selected_items":
+		[
+			[
+				"forma",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"format",
+				"SublimeAStyleFormatter: Format Current File"
+			],
+			[
+				"ra",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"rails",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"last mi",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rail",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"migrat",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"migr",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"migra",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"last",
+				"Rails Latest Migration: Open latest Rails migration"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"duspli",
+				"Duplicate Selections"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"fish",
+				"Set Syntax: Shell Script (fish)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/data/Development/bitbucket/unity/Genesis3/Assets"
+	],
+	"file_history":
+	[
+		"/Volumes/data/Development/bitbucket/unity/AxelStvVoxelEngine/Assets/WorldPos.cs",
+		"/Volumes/data/Development/bitbucket/unity/AxelStvVoxelEngine/Assets/Save.cs",
+		"/Volumes/data/Development/bitbucket/unity/AxelStvVoxelEngine/Assets/Modify.cs",
+		"/Volumes/data/Development/bitbucket/unity/AxelStvVoxelEngine/Assets/Serialization.cs",
+		"/Volumes/data/Development/bitbucket/unity/AxelStvVoxelEngine/Assets/TerrainGen.cs",
+		"/Volumes/data/Development/bitbucket/unity/AxelStvVoxelEngine/Assets/LoadChunks.cs",
+		"/Volumes/data/Development/bitbucket/unity/AxelStvVoxelEngine/Assets/World.cs",
+		"/Volumes/data/Development/bitbucket/unity/AxelStvVoxelEngine/Assets/Noise.cs",
+		"/Volumes/data/Development/bitbucket/unity/AxelStvVoxelEngine/Assets/Terrain.cs",
+		"/Users/void/Desktop/ies.xml",
+		"/Volumes/data/Development/bitbucket/unity/AxelStvVoxelEngine/Assets/BlockGrass.cs",
+		"/Volumes/data/Development/bitbucket/unity/AxelStvVoxelEngine/Assets/BlockAir.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/SphereMinecraft/octTrees/OctTreeNode.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/SphereMinecraft/meshedVersion/MinecraftifyMeshed.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Structures/TriangleList.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Structures/MeshLayer.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/SphereMinecraft/meshedVersion/GeometryHelper.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Structures/Triangle.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Structures/Vertex.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/SphereMinecraft/Minecraftify.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Tesselation/MeshAutoLOD.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Structures/DiamondList.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Structures/Diamond.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/SphereMinecraft/PrefabPool.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Roam/Constants.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/WireframeCamera.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Roam/CROAMAlgorithm.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Roam/New/Roam.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Spherification/Spherification2.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Roam/Macros.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Tesselation/MeshTests.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Roam/CVertexArray.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Roam/CROAMTriangle.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Structures/TriangleList.cs.meta",
+		"/Volumes/data/Development/personal/dotFiles/.tmux.conf",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/cartao_repsols/index.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/db/schema.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/helpers/requisicaos_helper.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/spec/factories/pedido_inscricaos.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/spec/helpers/requisicaos_helper_spec.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/spec/models/requisicao_apartamento_spec.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/spec/models/socio_spec.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/controllers/actividade_socios_controller.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/spec/controllers/actividade_socios_controller_spec.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/models/requisicao.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/socios/_form.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/controllers/socios_controller.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/socios/email.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/socios/email_templates/revista.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/mailers/associate_mailer.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/helpers/pedido_inscricaos_helper.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/Gemfile",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/Procfile",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/config/sidekiq.yml",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/config/application.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/helpers/application_helper.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/config/routes.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/assets/javascripts/application.js",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/socios/index.html.erb",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Roam/allClasses.cs",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Roam/ROAMSphere.cs",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/requisicao_apartamentos/_details.html.erb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_viagems/new_step2.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_apartamentos/new_step3.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_espectaculos/new_step3.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_apartamentos/new_step2.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_espectaculos/new_step2.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_modalidade_gerals/new_step2.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/models/actividade_socio.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_viagems/new_step3.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_modalidade_gerals/new_step3.html.slim",
+		"/Volumes/data/Development/bitbucket/unity/Genesis/Assets/Roam/CROAMDiamond.cs",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/models/actividade_socio_detalhe.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/controllers/pedido_inscricao_apartamentos_controller.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricaos/_confirmation_details.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/models/pedido_inscricao_apartamento.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/helpers/apartamentos_helper.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/modelwrappers/requisicao_apartamento_wrapper.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/helpers/epoca_apartamentos_helper.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_espectaculos/_detail.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/espectaculos/_simple_show.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricaos/_listagem_participantes.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/actividade_socios/forms/_espectaculo.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/models/pedido_inscricao.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/db/migrate/20150526100944_actualizar_espectaculos_para_novo_formato2.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/models/pedido_inscricao_espectaculo.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricaos/forms/_participantes.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/db/migrate/20150526095123_actualizar_espectaculos_para_novo_formato.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_health_clubs/new_step3.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_health_clubs/new_step2.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/controllers/pedido_inscricao_viagems_controller.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/controllers/pedido_inscricao_espectaculos_controller.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/controllers/pedido_inscricao_modalidade_gerals_controller.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/controllers/pedido_inscricao_health_clubs_controller.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/models/pedido_inscricao_viagem.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/viagems/_form.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/viagems/_simple_show.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/viagems/index.html.erb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/modelwrappers/requisicao_wrapper.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/models/pedido_inscricao_modalidade_geral.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/models/pedido_inscricao_health_club.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/controllers/pedido_inscricaos_controller.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricaos/show.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/controllers/pages_controller.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pages/contact.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/jobs/send_registration_greeting_email_job.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/models/socio.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/socios/generic_email.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pages/home.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/helpers/socios_helper.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricaos/index.html.erb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_apartamentos/new.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/apartamentos/simple_show.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/config/locales/pt.yml",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/apartamentos/_mapa_ocupacao_mes.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/apartamentos/_mapa_ocupacao.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/apartamentos/_simple_show.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/models/apartamento.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/controllers/apartamentos_controller.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/pedido_inscricao_modalidade_gerals/new.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/modalidade_gerals/_simple_show.html.slim",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/validators/cobranca_validator.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/models/cobranca.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views/cartao_repsols/show.html.erb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/modelwrappers/cobranca_wrapper.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/validators/requisicao_validator.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/validators/actividade_socio_validator.rb",
+		"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/validators/pedido_inscricao_validator.rb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/app",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/?/*.rb",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/*/*/*.rb",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/**/*.rb",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/*.rb",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/.*/*.rb",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/*/*.rb",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/views",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/db",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/app",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/spec",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/app",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/spec/controllers/",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/app",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/spec",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/app",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/spec",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/controllers",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/reports",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/app",
+			"/Volumes/data/Development/bitbucket/inforviegas-bpi/app/assets",
+			"",
+			"*.erb",
+			"*.slim",
+			"*.rb",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"meshData.vertices.Add(new Vector3(",
+			"List<int> indices",
+			"List<Vector3> vertices",
+			"Triangle",
+			"prioritywa",
+			"p2",
+			"p0",
+			"a.posi",
+			"p1",
+			"))",
+			"CVertex.Array[nVertex[3]].Init(",
+			"CVertex.Array[nVertex[2]].Init(",
+			"CVertex.Array[nVertex[1]].Init(",
+			"CVertex.Array[nVertex[0]].Init(",
+			"midpoint",
+			"result",
+			"selected=",
+			"NULL",
+			"::",
+			"unsigned ",
+			"->",
+			"calculate_apartamento_value",
+			"record.valor",
+			"req.valor",
+			"get_epoca_days_for_pedido",
+			"EpocaApartamento",
+			"calcular_valor(",
+			"socios\"",
+			"aprov",
+			"aprovar",
+			"Escolha a modalidade",
+			"Cobranca",
+			"requisicaos",
+			"telefone_grupo_desportivo",
+			"mandate_id",
+			"check_box",
+			"carta_para_socio",
+			"morada",
+			"carta",
+			"RequisicaoHelper",
+			"case",
+			"”",
+			"“",
+			"gerar_resumo_por_fornecedor",
+			"numero_ordem",
+			"ordem",
+			"nao_quer_cor",
+			"socios\"",
+			"socios ",
+			"ActividadeSocioDetalhe",
+			"espectaculo",
+			"Espectaculo",
+			"espectaculo",
+			"Espectaculo",
+			"apartamento",
+			"Apartamento",
+			"modalidade_geral",
+			"ModalidadeGeral",
+			"csrf",
+			"except",
+			"MONTH",
+			"ABR",
+			"ABBR",
+			"raise",
+			"numero_inscritos",
+			".zona",
+			"zona_as",
+			"zona_to_text",
+			"zona_text",
+			"zona_as_text",
+			".zona",
+			"N S",
+			"%w(N S)",
+			"options_for_select",
+			"N S",
+			"N",
+			"'N'",
+			"['N'",
+			"AddZona",
+			"\\.mapa_ocupacao",
+			".mapa_ocupacao",
+			"style",
+			"create_actividade_with_pedido",
+			"assets",
+			"socio_params",
+			"not logging due",
+			"csrf",
+			"to_words",
+			"socio_anulado",
+			"process_filter_to_list",
+			"anulado",
+			" be ",
+			"Pedido anulado",
+			"([^\\\\ ]*)\\.should",
+			"([^\\\\ ]*)\\.should =~",
+			"([^\\\\ ]*)\\.should",
+			"([^\\\\ ]*)\\.should ==",
+			".*\\.should ==",
+			"\\.should ==",
+			"[^ /]+\\.should ==",
+			"^[^ /]+\\.should ==",
+			"^[^ /]+$\\.should ==",
+			"[ˆ\\\\ *|\\.*]*\\.should ==",
+			"[ˆ\\\\ *|\\.]*\\.should ==",
+			"[ˆ\\\\ |\\.]*\\.should ==",
+			"[ˆ\\\\ |\\.]\\.should ==",
+			"[(\\w+)|\\.]\\.should ==",
+			"[(\\w+)|\\.]should ==",
+			"(\\w+)|\\.should ==",
+			"(\\w+)\\.+should ==",
+			"(\\w+)\\.should ==",
+			"[\\w*]*\\.should ==",
+			"[\\w]*\\.should ==",
+			"[^\\\\ ]*\\.should ==",
+			"([.&ˆ ]*)\\.should ==",
+			"([.|ˆ ]*)\\.should ==",
+			"([.ˆ ]*)\\.should ==",
+			"[ˆ ](.*)\\.should ==",
+			"[ˆ ]*(.*)\\.should ==",
+			"[ˆ ]*\\.should ==",
+			"[ˆ ]\\.should ==",
+			"[ˆ ](.*)\\.should ==",
+			"(.*)\\.should ==",
+			"(.*)\\.should",
+			"lambda do",
+			"end.should",
+			"(.*)\\.should",
+			"'(.*)\\.should"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"meshData.AddVertex(new Vector3(",
+			"int[] indices",
+			"Vector3[] vertices",
+			"c.position",
+			"a.position",
+			"b.posi",
+			"a.position",
+			")",
+			"v3 = new Vertex(",
+			"v2 = new Vertex(",
+			"v1 = new Vertex(",
+			"v0 = new Vertex(",
+			"null",
+			".",
+			"u",
+			".",
+			"\"",
+			"health_club",
+			"HealthClub",
+			"viagem",
+			"Viagem",
+			"espectaculo",
+			"Espectaculo",
+			"apartamento",
+			"Apartamento",
+			"expect($1).to be",
+			"expect(\\1).to be",
+			"expect($1).to be",
+			"expect do",
+			"end.to",
+			"expect($1).to",
+			"have_tag",
+			"expect(response).to",
+			"expect(response.body).to",
+			"expect(response).to",
+			"expect(response.body).to",
+			"expect(rendered).to",
+			"",
+			"@import ",
+			"//=require ",
+			",",
+			"'",
+			"zona",
+			"mes",
+			"ano",
+			"seguros",
+			"Seg",
+			"seg",
+			"",
+			"response.body.should have_title(",
+			"response.body.should have_selector",
+			"response.should ",
+			"response.should redir",
+			"expect(response).to",
+			"/data/inforviegas-bpi/current",
+			",",
+			";",
+			",",
+			"",
+			"Orgao",
+			"orgao",
+			"correspondencia",
+			"Correspondencia",
+			"correspondencia",
+			"\"",
+			"",
+			"as",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Volumes/data/Development/bitbucket/unity/Genesis3/Assets"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/TerrainGen.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 926,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "unityc#",
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"oops":
+							{
+								"125,138": "'MonoBehaviour' is not a known identifier",
+								"25,36": "'UnityEditor' is not a known identifier",
+								"6,17": "'UnityEngine' is not a known identifier",
+								"620,632": "'CustomEditor' is not a known identifier",
+								"652,653": "Error: ?",
+								"689,695": "'Editor' is not a known identifier",
+								"752,772": "'DrawDefaultInspector' is not a known identifier",
+								"774,775": "'TerrainGenInspector' does not contain a definition for 'DrawDefaultInspector'",
+								"819,825": "Cannot convert from 'None' to 'TerrainGen'",
+								"839,848": "'GUILayout' is not a known identifier",
+								"849,855": "'?' does not contain a definition for 'Button'",
+								"865,866": "Cannot convert from ? to System.Boolean"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Triangle.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								588,
+								588
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "unityc#",
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"oops":
+							{
+								"1000,1001": "'?' does not contain a definition for 'z'",
+								"1002,1003": "'Vector3' is not a known identifier",
+								"1008,1015": "'Vector2' is not a known identifier",
+								"1018,1020": "'Vertex' does not contain a definition for 'uv'",
+								"1021,1022": "'?' does not contain a definition for 'x'",
+								"1026,1028": "'Vertex' does not contain a definition for 'uv'",
+								"1029,1030": "'?' does not contain a definition for 'y'",
+								"1031,1032": "'Vector2' is not a known identifier",
+								"1032,1033": "'Vertex' is not a known identifier",
+								"1063,1069": "'Vertex' is not a known identifier",
+								"1074,1081": "'Vector3' is not a known identifier",
+								"1084,1092": "'Vertex' does not contain a definition for 'position'",
+								"1093,1094": "'?' does not contain a definition for 'x'",
+								"1098,1106": "'Vertex' does not contain a definition for 'position'",
+								"1107,1108": "'?' does not contain a definition for 'y'",
+								"1112,1120": "'Vertex' does not contain a definition for 'position'",
+								"1121,1122": "'?' does not contain a definition for 'z'",
+								"1123,1124": "'Vector3' is not a known identifier",
+								"1129,1136": "'Vector2' is not a known identifier",
+								"1139,1141": "'Vertex' does not contain a definition for 'uv'",
+								"1142,1143": "'?' does not contain a definition for 'x'",
+								"1147,1149": "'Vertex' does not contain a definition for 'uv'",
+								"1150,1151": "'?' does not contain a definition for 'y'",
+								"1152,1153": "'Vector2' is not a known identifier",
+								"1153,1154": "'Vertex' is not a known identifier",
+								"1240,1246": "'Vertex' is not a known identifier",
+								"1250,1256": "'Vertex' is not a known identifier",
+								"1260,1266": "'Vertex' is not a known identifier",
+								"1360,1368": "'Vertex' does not contain a definition for 'position'",
+								"1373,1381": "Error: Int32",
+								"1386,1394": "Error: Int32",
+								"1395,1396": "Error: Int32",
+								"1398,1400": "Cannot convert from System.Single to [UnknownType Vector3]",
+								"142,148": "'Vertex' is not a known identifier",
+								"1429,1437": "'Vertex' does not contain a definition for 'position'",
+								"1442,1450": "Error: Int32",
+								"1451,1452": "Error: Int32",
+								"1454,1456": "Cannot convert from System.Single to [UnknownType Vector3]",
+								"1480,1487": "'Vector3' is not a known identifier",
+								"1488,1496": "'?' does not contain a definition for 'Distance'",
+								"1499,1507": "'Vertex' does not contain a definition for 'position'",
+								"1511,1519": "'Vertex' does not contain a definition for 'position'",
+								"1520,1521": "Cannot convert from ? to System.Single",
+								"1548,1554": "'Vertex' is not a known identifier",
+								"1568,1574": "'Vertex' is not a known identifier",
+								"173,179": "'Vertex' is not a known identifier",
+								"182,183": "Cannot convert from System.Collections.Generic.List`1[[?]] to System.Collections.Generic.List`1[[?]]",
+								"1871,1877": "'Vertex' is not a known identifier",
+								"1933,1939": "'Vertex' is not a known identifier",
+								"1982,1988": "'Vertex' is not a known identifier",
+								"1998,1999": "'Vertex' is not a known identifier",
+								"2033,2039": "'Vertex' is not a known identifier",
+								"2064,2072": "'Vertex' does not contain a definition for 'position'",
+								"2078,2086": "Error: Boolean",
+								"2092,2100": "'Vertex' does not contain a definition for 'position'",
+								"2106,2114": "Error: Boolean",
+								"2120,2128": "'Vertex' does not contain a definition for 'position'",
+								"2134,2142": "Error: Boolean",
+								"2163,2170": "'Vector3' is not a known identifier",
+								"2216,2224": "'Vertex' does not contain a definition for 'position'",
+								"2228,2236": "'Vertex' does not contain a definition for 'position'",
+								"2240,2248": "'Vertex' does not contain a definition for 'position'",
+								"2276,2283": "'Vector3' is not a known identifier",
+								"2297,2304": "'Vector3' is not a known identifier",
+								"2309,2316": "'Vector3' is not a known identifier",
+								"2321,2328": "'Vector3' is not a known identifier",
+								"2344,2351": "'Vector3' is not a known identifier",
+								"2361,2363": "Error: Int32",
+								"2373,2380": "'Vector3' is not a known identifier",
+								"2390,2392": "Error: Int32",
+								"2414,2421": "'Vector3' is not a known identifier",
+								"2424,2425": "'?' does not contain a definition for 'y'",
+								"2430,2431": "Error: Int32",
+								"2436,2437": "'?' does not contain a definition for 'z'",
+								"2442,2443": "Error: Int32",
+								"2447,2448": "'?' does not contain a definition for 'z'",
+								"2453,2454": "Error: Int32",
+								"2459,2460": "'?' does not contain a definition for 'x'",
+								"2465,2466": "Error: Int32",
+								"2470,2471": "'?' does not contain a definition for 'x'",
+								"2476,2477": "Error: Int32",
+								"248,254": "'Vertex' is not a known identifier",
+								"2482,2483": "'?' does not contain a definition for 'y'",
+								"2488,2489": "Error: Int32",
+								"2490,2491": "'Vector3' is not a known identifier",
+								"2544,2551": "'Vector3' is not a known identifier",
+								"2573,2583": "'Vector3' does not contain a definition for 'normalized'",
+								"2595,2601": "'Vertex' does not contain a definition for 'normal'",
+								"2622,2628": "'Vertex' does not contain a definition for 'normal'",
+								"2649,2655": "'Vertex' does not contain a definition for 'normal'",
+								"266,272": "'Vertex' is not a known identifier",
+								"284,290": "'Vertex' is not a known identifier",
+								"2975,2982": "'Vector3' is not a known identifier",
+								"2994,3001": "'Vector3' is not a known identifier",
+								"305,312": "'Vector3' is not a known identifier",
+								"3089,3095": "'Macros' is not a known identifier",
+								"3096,3111": "'?' does not contain a definition for 'DistanceSquared'",
+								"3132,3133": "Cannot convert from ? to System.Single",
+								"332,339": "'Vector3' is not a known identifier",
+								"3686,3693": "'Vector3' is not a known identifier",
+								"3694,3697": "'?' does not contain a definition for 'Dot'",
+								"3720,3729": "Error: Int32",
+								"3730,3731": "Error: Int32",
+								"3731,3741": "'Int32' does not contain a definition for 'normalized'",
+								"3742,3743": "'?' does not contain a definition for 'Dot'",
+								"3747,3750": "Error: Boolean",
+								"3891,3896": "'Mathf' is not a known identifier",
+								"3897,3900": "'?' does not contain a definition for 'Max'",
+								"3928,3929": "Cannot convert from ? to System.Single",
+								"3967,3972": "'Mathf' is not a known identifier",
+								"3973,3977": "'?' does not contain a definition for 'Sqrt'",
+								"3988,3989": "Error: Single",
+								"4077,4084": "'Vector3' is not a known identifier",
+								"4120,4128": "'Vertex' does not contain a definition for 'position'",
+								"4129,4130": "Error: Int32",
+								"4135,4143": "'Vertex' does not contain a definition for 'position'",
+								"4144,4145": "Error: Int32",
+								"4167,4175": "'Vertex' does not contain a definition for 'position'",
+								"4176,4177": "'?' does not contain a definition for 'y'",
+								"4184,4192": "'Vertex' does not contain a definition for 'position'",
+								"4193,4194": "Error: Int32",
+								"4199,4207": "'Vertex' does not contain a definition for 'position'",
+								"4208,4209": "Error: Int32",
+								"4210,4211": "Error: Int32",
+								"4232,4240": "'Vertex' does not contain a definition for 'position'",
+								"4241,4242": "'?' does not contain a definition for 'x'",
+								"4248,4256": "'Vertex' does not contain a definition for 'position'",
+								"4257,4258": "'?' does not contain a definition for 'y'",
+								"4263,4271": "'Vertex' does not contain a definition for 'position'",
+								"4272,4273": "Error: Int32",
+								"4274,4275": "Error: Int32",
+								"4296,4304": "'Vertex' does not contain a definition for 'position'",
+								"4305,4306": "'?' does not contain a definition for 'x'",
+								"4311,4319": "'Vertex' does not contain a definition for 'position'",
+								"4320,4321": "Error: Int32",
+								"4380,4388": "'Vertex' does not contain a definition for 'position'",
+								"4389,4390": "'?' does not contain a definition for 'y'",
+								"4395,4403": "'Vertex' does not contain a definition for 'position'",
+								"4404,4405": "Error: Int32",
+								"4427,4435": "'Vertex' does not contain a definition for 'position'",
+								"4436,4437": "'?' does not contain a definition for 'x'",
+								"4442,4450": "'Vertex' does not contain a definition for 'position'",
+								"4451,4452": "Error: Int32",
+								"4475,4483": "'Vertex' does not contain a definition for 'position'",
+								"4484,4485": "'?' does not contain a definition for 'y'",
+								"4490,4498": "'Vertex' does not contain a definition for 'position'",
+								"4499,4500": "Error: Int32",
+								"4501,4502": "Error: Int32",
+								"4506,4507": "Error: Int32",
+								"4530,4538": "'Vertex' does not contain a definition for 'position'",
+								"4539,4540": "'?' does not contain a definition for 'x'",
+								"4545,4553": "'Vertex' does not contain a definition for 'position'",
+								"4554,4555": "Error: Int32",
+								"4556,4557": "Error: Int32",
+								"4561,4562": "Error: Int32",
+								"4593,4601": "'Vertex' does not contain a definition for 'position'",
+								"4602,4603": "'?' does not contain a definition for 'x'",
+								"4608,4616": "'Vertex' does not contain a definition for 'position'",
+								"4617,4618": "Error: Int32",
+								"4640,4648": "'Vertex' does not contain a definition for 'position'",
+								"4649,4650": "'?' does not contain a definition for 'y'",
+								"4655,4663": "'Vertex' does not contain a definition for 'position'",
+								"4664,4665": "Error: Int32",
+								"4688,4696": "'Vertex' does not contain a definition for 'position'",
+								"4697,4698": "'?' does not contain a definition for 'y'",
+								"4703,4711": "'Vertex' does not contain a definition for 'position'",
+								"4712,4713": "Error: Int32",
+								"4714,4715": "Error: Int32",
+								"4719,4720": "Error: Int32",
+								"4743,4751": "'Vertex' does not contain a definition for 'position'",
+								"4752,4753": "'?' does not contain a definition for 'x'",
+								"4758,4766": "'Vertex' does not contain a definition for 'position'",
+								"4767,4768": "Error: Int32",
+								"4769,4770": "Error: Int32",
+								"4774,4775": "Error: Int32",
+								"4887,4893": "'Vertex' is not a known identifier",
+								"4898,4904": "'Vertex' is not a known identifier",
+								"4909,4915": "'Vertex' is not a known identifier",
+								"5420,5422": "'Vertex' does not contain a definition for 'uv'",
+								"5428,5429": "Error: String",
+								"5433,5435": "Error: String",
+								"5446,5448": "Error: String",
+								"5517,5518": "Error: String",
+								"5529,5530": "Error: String",
+								"5541,5542": "Error: String",
+								"6,17": "'UnityEngine' is not a known identifier",
+								"6069,6075": "'Vertex' is not a known identifier",
+								"6106,6107": "Error: Boolean",
+								"6121,6122": "Error: Boolean",
+								"6136,6137": "Error: Boolean",
+								"734,740": "'Vertex' is not a known identifier",
+								"744,750": "'Vertex' is not a known identifier",
+								"754,760": "'Vertex' is not a known identifier",
+								"821,827": "'Vertex' is not a known identifier",
+								"832,839": "'Vector3' is not a known identifier",
+								"842,850": "'Vertex' does not contain a definition for 'position'",
+								"851,852": "'?' does not contain a definition for 'x'",
+								"856,864": "'Vertex' does not contain a definition for 'position'",
+								"865,866": "'?' does not contain a definition for 'y'",
+								"870,878": "'Vertex' does not contain a definition for 'position'",
+								"879,880": "'?' does not contain a definition for 'z'",
+								"881,882": "'Vector3' is not a known identifier",
+								"887,894": "'Vector2' is not a known identifier",
+								"897,899": "'Vertex' does not contain a definition for 'uv'",
+								"900,901": "'?' does not contain a definition for 'x'",
+								"905,907": "'Vertex' does not contain a definition for 'uv'",
+								"908,909": "'?' does not contain a definition for 'y'",
+								"910,911": "'Vector2' is not a known identifier",
+								"911,912": "'Vertex' is not a known identifier",
+								"942,948": "'Vertex' is not a known identifier",
+								"953,960": "'Vector3' is not a known identifier",
+								"963,971": "'Vertex' does not contain a definition for 'position'",
+								"972,973": "'?' does not contain a definition for 'x'",
+								"977,985": "'Vertex' does not contain a definition for 'position'",
+								"986,987": "'?' does not contain a definition for 'y'",
+								"991,999": "'Vertex' does not contain a definition for 'position'"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 229.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assets/FaceTerrain.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "unityc#",
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"oops":
+							{
+								"110,122": "'MeshRenderer' is not a known identifier",
+								"124,125": "Error: ?",
+								"153,166": "'MonoBehaviour' is not a known identifier",
+								"179,189": "'GameObject' is not a known identifier",
+								"47,63": "'RequireComponent' is not a known identifier",
+								"474,485": "'Instantiate' is not a known identifier",
+								"503,510": "'Vector3' is not a known identifier",
+								"527,528": "'Vector3' is not a known identifier",
+								"529,539": "'Quaternion' is not a known identifier",
+								"540,548": "'?' does not contain a definition for 'identity'",
+								"549,550": "'FaceTerrain' does not contain a definition for 'Instantiate'",
+								"553,563": "'GameObject' is not a known identifier",
+								"584,585": "'?' does not contain a definition for 'GetComponent'",
+								"586,587": "Cannot convert from ? to Chunk",
+								"6,17": "'UnityEngine' is not a known identifier",
+								"71,81": "'MeshFilter' is not a known identifier",
+								"83,84": "Error: ?",
+								"86,102": "'RequireComponent' is not a known identifier"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Assets/Chunk.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								231,
+								244
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "plain text",
+							"apply_syntax_touched": true,
+							"auto_name": "",
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"oops":
+							{
+								"110,122": "'MeshRenderer' is not a known identifier",
+								"124,125": "Error: ?",
+								"147,160": "'MonoBehaviour' is not a known identifier",
+								"173,183": "'MeshFilter' is not a known identifier",
+								"205,217": "'TriangleList' is not a known identifier",
+								"307,317": "'MeshFilter' is not a known identifier",
+								"318,319": "'GetComponent' is not a known identifier",
+								"320,321": "Cannot convert from ? to [UnknownType MeshFilter]",
+								"347,351": "'MeshFilter' does not contain a definition for 'mesh'",
+								"380,384": "'MeshFilter' does not contain a definition for 'mesh'",
+								"391,395": "'Mesh' is not a known identifier",
+								"397,398": "'Mesh' is not a known identifier",
+								"416,420": "'MeshFilter' does not contain a definition for 'mesh'",
+								"421,425": "'?' does not contain a definition for 'name'",
+								"428,432": "'name' is not a known identifier",
+								"441,442": "Cannot convert from System.String to ?",
+								"47,63": "'RequireComponent' is not a known identifier",
+								"498,510": "'TriangleList' is not a known identifier",
+								"512,513": "Cannot convert from ? to [UnknownType TriangleList]",
+								"548,555": "'Vector3' is not a known identifier",
+								"6,17": "'UnityEngine' is not a known identifier",
+								"71,81": "'MeshFilter' is not a known identifier",
+								"83,84": "Error: ?",
+								"86,102": "'RequireComponent' is not a known identifier"
+							},
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 151.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 26.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"cobranca_spec",
+				"spec/models/cobranca_spec.rb"
+			],
+			[
+				"reqhelsp",
+				"spec/helpers/requisicaos_helper_spec.rb"
+			],
+			[
+				"socio_spec",
+				"spec/models/socio_spec.rb"
+			],
+			[
+				"actividade_socios_controller_spec",
+				"spec/controllers/actividade_socios_controller_spec.rb"
+			],
+			[
+				"pedidin",
+				"app/helpers/pedido_inscricaos_helper.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"socioscon",
+				"app/controllers/socios_controller.rb"
+			],
+			[
+				"routre",
+				"config/routes.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"actisode",
+				"app/models/actividade_socio_detalhe.rb"
+			],
+			[
+				"acsoc",
+				"app/models/actividade_socio.rb"
+			],
+			[
+				"requisi",
+				"app/models/requisicao.rb"
+			],
+			[
+				"apahelp",
+				"app/helpers/apartamentos_helper.rb"
+			],
+			[
+				"apartahelp",
+				"app/helpers/apartamentos_helper.rb"
+			],
+			[
+				"pedido_insvia",
+				"app/models/pedido_inscricao_viagem.rb"
+			],
+			[
+				"requisi_help",
+				"app/helpers/requisicaos_helper.rb"
+			],
+			[
+				"requisica",
+				"app/models/requisicao.rb"
+			],
+			[
+				"pedido",
+				"app/models/pedido_inscricao.rb"
+			],
+			[
+				"pedido_",
+				"app/models/pedido_inscricao.rb"
+			],
+			[
+				"pages_con",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"contact",
+				"app/views/pages/contact.html.slim"
+			],
+			[
+				"socio",
+				"app/models/socio.rb"
+			],
+			[
+				"pedido_inscr",
+				"app/models/pedido_inscricao.rb"
+			],
+			[
+				"appli",
+				"config/application.rb"
+			],
+			[
+				"application.rb",
+				"config/application.rb"
+			],
+			[
+				"sociohelp",
+				"app/helpers/socios_helper.rb"
+			],
+			[
+				"requis",
+				"app/models/requisicao.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"cartaorepsindex",
+				"app/views/cartao_repsols/index.slim"
+			],
+			[
+				"peinscrrb",
+				"app/models/pedido_inscricao.rb"
+			],
+			[
+				"sociosconsp",
+				"spec/controllers/socios_controller_spec.rb"
+			],
+			[
+				"heaclconsp",
+				"spec/controllers/health_clubs_controller_spec.rb"
+			],
+			[
+				"apartaconspe",
+				"spec/controllers/apartamentos_controller_spec.rb"
+			],
+			[
+				"viconspe",
+				"spec/controllers/viagems_controller_spec.rb"
+			],
+			[
+				"rehelsp",
+				"spec/helpers/requisicao_helper_spec.rb"
+			],
+			[
+				"apartspe",
+				"spec/models/apartamento_spec.rb"
+			],
+			[
+				"hclspe",
+				"spec/models/health_club_spec.rb"
+			],
+			[
+				"refarspe",
+				"spec/models/requisicao_farma_spec.rb"
+			],
+			[
+				"viainde",
+				"app/views/viagems/index.html.erb"
+			],
+			[
+				"socioscontr",
+				"app/controllers/socios_controller.rb"
+			],
+			[
+				"coere",
+				"db/migrate/20150306155825_coerencia_informacao_socios.rb"
+			],
+			[
+				"pagarequiinde",
+				"app/views/pagamento_requisicaos/index.slim"
+			],
+			[
+				"carrepsoinde",
+				"app/views/cartao_repsols/index.slim"
+			],
+			[
+				"cobrainde",
+				"app/views/cobrancas/index.html.erb"
+			],
+			[
+				"requiinde",
+				"app/views/requisicaos/index.html.erb"
+			],
+			[
+				"sociodetail",
+				"app/views/socios/_socio_detail.html.slim"
+			],
+			[
+				"sch",
+				"db/schema.rb"
+			],
+			[
+				"pedinvia",
+				"app/controllers/pedido_inscricao_viagems_controller.rb"
+			],
+			[
+				"viagemshow",
+				"app/views/viagems/show.html.slim"
+			],
+			[
+				"socios_con",
+				"app/controllers/socios_controller.rb"
+			],
+			[
+				"cartarpsin",
+				"app/views/cartao_repsols/index.slim"
+			],
+			[
+				"carrepsocon",
+				"app/controllers/cartao_repsols_controller.rb"
+			],
+			[
+				"socioshel",
+				"app/helpers/socios_helper.rb"
+			],
+			[
+				"soccontr",
+				"app/controllers/socios_controller.rb"
+			],
+			[
+				"carta",
+				"app/controllers/cartao_repsols_controller.rb"
+			],
+			[
+				"sociodeta",
+				"app/views/socios/_socio_detail.html.slim"
+			],
+			[
+				"socioshow",
+				"app/views/socios/show.html.slim"
+			],
+			[
+				"screen",
+				"app/assets/stylesheets/screen.scss"
+			],
+			[
+				"abili",
+				"app/models/ability.rb"
+			],
+			[
+				"actiso",
+				"app/models/actividade_socio.rb"
+			],
+			[
+				"actisocon",
+				"app/controllers/actividade_socios_controller.rb"
+			],
+			[
+				"pediinhealcontr",
+				"app/controllers/pedido_inscricao_health_clubs_controller.rb"
+			],
+			[
+				"pedidincon",
+				"app/controllers/pedido_inscricaos_controller.rb"
+			],
+			[
+				"actsocde",
+				"app/models/actividade_socio_detalhe.rb"
+			],
+			[
+				"pediincrde",
+				"app/models/pedido_inscricao_detalhe.rb"
+			],
+			[
+				"string",
+				"lib/core_ext/string.rb"
+			],
+			[
+				"requi",
+				"app/models/requisicao.rb"
+			],
+			[
+				"pedioin",
+				"app/models/pedido_inscricao.rb"
+			],
+			[
+				"actividade_so",
+				"app/models/actividade_socio.rb"
+			],
+			[
+				"pedidoin",
+				"app/models/pedido_inscricao.rb"
+			],
+			[
+				"strign",
+				"lib/core_ext/string.rb"
+			],
+			[
+				"activsoc",
+				"app/models/actividade_socio.rb"
+			],
+			[
+				"pedidinde",
+				"app/models/pedido_inscricao_detalhe.rb"
+			],
+			[
+				"pedidinscrmodalicon",
+				"app/controllers/pedido_inscricao_modalidade_gerals_controller.rb"
+			],
+			[
+				"pedidoinscrviacon",
+				"app/controllers/pedido_inscricao_viagems_controller.rb"
+			],
+			[
+				"pediinviacon",
+				"app/controllers/pedido_inscricao_viagems_controller.rb"
+			],
+			[
+				"pediinescon",
+				"app/controllers/pedido_inscricao_espectaculos_controller.rb"
+			],
+			[
+				"pediinhealcon",
+				"app/controllers/pedido_inscricao_health_clubs_controller.rb"
+			],
+			[
+				"pediinapacon",
+				"app/controllers/pedido_inscricao_apartamentos_controller.rb"
+			],
+			[
+				"pediincon",
+				"app/controllers/pedido_inscricaos_controller.rb"
+			],
+			[
+				"activsosho",
+				"app/views/actividade_socios/show.html.erb"
+			],
+			[
+				"pedido_in",
+				"app/models/pedido_inscricao.rb"
+			],
+			[
+				"actividadesocio",
+				"app/models/actividade_socio.rb"
+			],
+			[
+				"addnewtyp",
+				"db/migrate/20150302123916_add_new_type_to_actividade_socio.rb"
+			],
+			[
+				"addnewtype",
+				"db/migrate/20150227174225_add_new_type_to_pedido_inscricao.rb"
+			],
+			[
+				"socinde",
+				"app/views/socios/index.html.erb"
+			],
+			[
+				"pedinapacon",
+				"app/controllers/pedido_inscricao_apartamentos_controller.rb"
+			],
+			[
+				"peinmocon",
+				"app/controllers/pedido_inscricao_modalidade_gerals_controller.rb"
+			],
+			[
+				"pediinmoda",
+				"app/models/pedido_inscricao_modalidade_geral.rb"
+			],
+			[
+				"applicon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applicontr",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"pedidoincrcon",
+				"app/controllers/pedido_inscricaos_controller.rb"
+			],
+			[
+				"fornecontr",
+				"app/controllers/fornecedors_controller.rb"
+			],
+			[
+				"fornececon",
+				"app/controllers/fornecedors_controller.rb"
+			],
+			[
+				"socioinde",
+				"app/views/socios/index.html.erb"
+			],
+			[
+				"pediin",
+				"app/models/pedido_inscricao.rb"
+			],
+			[
+				"acticon",
+				"app/controllers/actividade_socios_controller.rb"
+			],
+			[
+				"actividade",
+				"app/models/actividade_socio.rb"
+			],
+			[
+				"partic",
+				"app/views/pedido_inscricaos/forms/_participantes.html.slim"
+			],
+			[
+				"carrepinde",
+				"app/views/cartao_repsols/index.slim"
+			],
+			[
+				"scree",
+				"app/assets/stylesheets/screen.scss"
+			],
+			[
+				"layout",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"global",
+				"app/views/apartamentos/_mapa_ocupacao_global.html.slim"
+			],
+			[
+				"apartaindex",
+				"app/views/apartamentos/index.html.erb"
+			],
+			[
+				"applhelp",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"applihel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"apartamento",
+				"app/models/apartamento.rb"
+			],
+			[
+				"aparta",
+				"app/models/apartamento.rb"
+			],
+			[
+				"apartcon",
+				"app/controllers/apartamentos_controller.rb"
+			],
+			[
+				"socio.r",
+				"app/models/socio.rb"
+			],
+			[
+				"healthinde",
+				"app/views/health_clubs/index.html.erb"
+			],
+			[
+				"cartrep",
+				"app/models/cartao_repsol.rb"
+			],
+			[
+				"cartaorepsin",
+				"app/views/cartao_repsols/index.slim"
+			],
+			[
+				"applicationhtm",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"especcon",
+				"app/controllers/espectaculos_controller.rb"
+			],
+			[
+				"healclubcon",
+				"app/controllers/health_clubs_controller.rb"
+			],
+			[
+				"viagemcon",
+				"app/controllers/viagems_controller.rb"
+			],
+			[
+				"sociosc",
+				"app/controllers/socios_controller.rb"
+			],
+			[
+				"modaligera",
+				"app/models/modalidade_geral.rb"
+			],
+			[
+				"requiindex",
+				"app/views/requisicaos/index.html.erb"
+			],
+			[
+				"cobra",
+				"app/models/cobranca.rb"
+			],
+			[
+				"function",
+				"app/assets/javascripts/functions.js"
+			],
+			[
+				"actsocontr",
+				"app/controllers/actividade_socios_controller.rb"
+			],
+			[
+				"socform",
+				"app/views/socios/_form.slim"
+			],
+			[
+				"applcontr",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"factor",
+				"spec/factories.rb"
+			],
+			[
+				"facto",
+				"spec/factories.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/data/Development/zenblast_3.4/website/website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
